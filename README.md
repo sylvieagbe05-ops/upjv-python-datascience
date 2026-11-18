@@ -19,7 +19,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD4](td04_enonce.ipynb) | Les fonctions et NumPy | ✅: |
 | [TD5](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | ✅: | 
 | [TD6](td06_enonce.ipynb) | Logique, flux de controle et boucles | ✅: |
-| [TD6](td07_enonce.ipynb) | Etude de cas et mini-projet 1 |✅:|
+| [TD7](td07_enonce.ipynb) | Etude de cas et mini-projet 1 |✅:|
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
